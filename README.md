@@ -6,7 +6,7 @@ An enthusiastic developer passionate about creating impactful solutions through 
 
 - Python
 - Django
-- HTML/CSS
+- React Js/ Node Js
 - Database Management
 - Web Development
 
