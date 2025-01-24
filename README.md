@@ -42,10 +42,6 @@ Python-based distribution tracking system deployed on Heroku
 
 - GitHub: [@SrivastavaSatyam](https://github.com/SrivastavaSatyam)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrivastavaSatyam&show_icons=true&theme=radical)
-
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivastavaSatyam&layout=compact&theme=radical)
