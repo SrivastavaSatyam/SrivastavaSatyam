@@ -29,7 +29,7 @@ Python-based distribution tracking system deployed on Heroku
 
 ## 🌱 Currently Learning
 
-- Advanced Django Development
+- Node JS, Next Js
 - Database Optimization
 - API Development
 - Cloud Technologies
