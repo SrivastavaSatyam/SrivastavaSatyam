@@ -1,16 +1,55 @@
-### Hi there 👋
+# 👋 Hi, I'm Satyam Srivastava
 
-<!--
-**SrivastavaSatyam/SrivastavaSatyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An enthusiastic developer passionate about creating impactful solutions through code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django
+- HTML/CSS
+- Database Management
+- Web Development
+
+## 🔭 Featured Projects
+
+### [BillWithUs](https://github.com/SrivastavaSatyam/BillWithUs)
+A smart billing solution focused on cost optimization - "Pay Always Less"
+
+### [Covid-Tracker](https://github.com/SrivastavaSatyam/Covid-Tracker)
+Real-time COVID-19 statistics tracker that provides live updates for countries worldwide
+- Built with Python
+- Live data integration
+- Country-wise statistics
+
+### [Weather-Forecast](https://github.com/SrivastavaSatyam/Weather-Forcast)
+A weather forecasting application providing accurate weather information
+
+### [Disttrac-Heroku](https://github.com/SrivastavaSatyam/Disttrac-Heroku)
+Python-based distribution tracking system deployed on Heroku
+
+## 🌱 Currently Learning
+
+- Advanced Django Development
+- Database Optimization
+- API Development
+- Cloud Technologies
+
+## 🏆 GitHub Achievements
+- Quickdraw
+- Pull Shark
+
+## 📫 How to reach me
+
+- GitHub: [@SrivastavaSatyam](https://github.com/SrivastavaSatyam)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrivastavaSatyam&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivastavaSatyam&layout=compact&theme=radical)
+
+---
+
+⭐️ From [SrivastavaSatyam](https://github.com/SrivastavaSatyam) 
