@@ -1,51 +1,18 @@
 # 👋 Hi, I'm Satyam Srivastava
 
-An enthusiastic developer passionate about creating impactful solutions through code.
-
-## 🛠️ Tech Stack
-
-- Python
-- Django
-- React Js/ Node Js
-- Database Management
-- Web Development
-
-## 🔭 Featured Projects
-
-### [BillWithUs](https://github.com/SrivastavaSatyam/BillWithUs)
-A smart billing solution focused on cost optimization - "Pay Always Less"
-
-### [Covid-Tracker](https://github.com/SrivastavaSatyam/Covid-Tracker)
-Real-time COVID-19 statistics tracker that provides live updates for countries worldwide
-- Built with Python
-- Live data integration
-- Country-wise statistics
-
-### [Weather-Forecast](https://github.com/SrivastavaSatyam/Weather-Forcast)
-A weather forecasting application providing accurate weather information
-
-### [Disttrac-Heroku](https://github.com/SrivastavaSatyam/Disttrac-Heroku)
-Python-based distribution tracking system deployed on Heroku
+[Portfolio](https://srivastavasatyam.github.io/portfolio)
+- 🏄‍ Software Egineer
+- ✍ Written Few Blogs, generally tech related.
+- 📫 How to reach me: [Email me](mailto:srivastava6808@gmail.com)
 
 ## 🌱 Currently Learning
-
 - Node JS, Next Js
 - Database Optimization
 - API Development
 - Cloud Technologies
 
-## 🏆 GitHub Achievements
-- Quickdraw
-- Pull Shark
-
-## 📫 How to reach me
-
-- Portfolio: [@SrivastavaSatyam](https://srivastavasatyam.github.io/portfolio/)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivastavaSatyam&layout=compact&theme=radical)
-
----
-
-⭐️ From [SrivastavaSatyam](https://github.com/SrivastavaSatyam) 
+## 📫 Connect with me
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/satyam-srivastava-089622325)
+[<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:srivastava6808@gmail.com)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/satyamsri1712)
+[<img height="30" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/srivastava8815/)
