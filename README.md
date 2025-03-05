@@ -40,7 +40,7 @@ Python-based distribution tracking system deployed on Heroku
 
 ## 📫 How to reach me
 
-- GitHub: [@SrivastavaSatyam](https://github.com/SrivastavaSatyam)
+- Portfolio: [@SrivastavaSatyam](https://srivastavasatyam.github.io/portfolio/)
 
 ## 💻 Most Used Languages
 
